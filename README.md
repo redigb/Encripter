@@ -24,7 +24,3 @@ Esta es una aplicación web sencilla que permite encriptar y desencriptar texto 
 3. **Desencriptar:** Haz clic en el botón "Desencriptar" para revertir el texto encriptado.
 
 > **Nota:** Solo se permiten letras minúsculas y espacios. Los botones están deshabilitados si el texto ingresado no cumple con este criterio.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
